@@ -1,5 +1,12 @@
 # @redocly/cli
 
+## 1.16.1
+
+### Patch Changes
+
+- Replace path items emoji with 🔀 so the width is consistent.
+- Updated @redocly/openapi-core to v1.16.1.
+
 ## 1.16.0
 
 ### Minor Changes

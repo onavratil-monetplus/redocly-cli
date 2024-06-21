@@ -7,6 +7,13 @@ toc:
 
 <!-- do-not-remove -->
 
+## 1.16.1 (2024-06-21)
+
+### Patch Changes
+
+- Replace path items emoji with 🔀 so the width is consistent.
+- Updated @redocly/openapi-core to v1.16.1.
+
 ## 1.16.0 (2024-06-18)
 
 ### Minor Changes
